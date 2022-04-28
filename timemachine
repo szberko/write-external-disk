@@ -1,0 +1,3 @@
+#!/bin/bash
+
+write_permission_time_machine TimeMachine apfs $1
